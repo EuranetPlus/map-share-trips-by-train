@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât călătorim cu trenul în UE?",
+  "subtitle": "În medie, 6,6% din călătoriile din Uniunea Europeană se efectuează cu trenul, Austria având cea mai mare rată, de 13,6%, urmată de Olanda cu 12%, în timp ce Grecia are cea mai mică rată, de 0,5%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Nu au fost furnizate valori pentru Malta și Cipru.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
