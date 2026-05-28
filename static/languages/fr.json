@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Dans quelle mesure voyageons-nous en train dans l'UE ?",
+  "subtitle": "En moyenne, 6,6 % des déplacements dans l'Union européenne se font en train, l'Autriche affichant le taux le plus élevé à 13,6 %, suivie des Pays-Bas à 12 %, tandis que la Grèce présente le taux le plus bas à 0,5 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Aucune valeur n'est fournie pour Malte et Chypre.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
