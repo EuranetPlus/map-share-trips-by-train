@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile podróżujemy pociągami w UE?",
+  "subtitle": "Średnio 6,6% podróży w Unii Europejskiej odbywa się koleją. Najwyższy wskaźnik odnotowano w Austrii (13,6%), Holandii (12%), a najniższy w Grecji (0,5%).",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Nie podano wartości dla Malty i Cypru.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
