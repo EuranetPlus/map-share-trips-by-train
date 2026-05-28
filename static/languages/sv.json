@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket reser vi med tåg inom EU?",
+  "subtitle": "I genomsnitt görs 6,6 % av resorna inom Europeiska unionen med tåg, där Österrike har den högsta andelen på 13,6 %, följt av Nederländerna på 12 %, medan Grekland har den lägsta andelen på 0,5 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Inga värden angivna för Malta och Cypern.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
