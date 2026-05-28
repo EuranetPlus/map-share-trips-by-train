@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon EU:ssa matkustetaan junalla?",
+  "subtitle": "Keskimäärin 6,6 % Euroopan unionin matkoista tehdään junalla. Itävallassa osuus on korkein, 13,6 %, jota seuraa Alankomaat 12 %:lla, kun taas Kreikassa osuus on alhaisin, 0,5 %.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Maltan ja Kyproksen osalta ei annettu arvoja.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
